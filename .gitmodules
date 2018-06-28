@@ -3,4 +3,4 @@
 	url = git@github.com:ecepulse/react_lesson_one.git
 [submodule "react_lesson_two"]
 	path = react_lesson_two
-	url = ./react_lesson_two
+	url = git@github.com:ecepulse/react_lesson_two.git
